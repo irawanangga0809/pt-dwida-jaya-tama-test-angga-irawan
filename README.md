@@ -14,6 +14,10 @@
 
 Done
 
+## Test Result
+Dokumentasion (Google Slide)
+[Result]([https://laracasts.com](https://docs.google.com/presentation/d/1N7ZHmvvWS-of9riKyTt2jOzMojQBcRZ9ivcXHLKbP8Y/edit?usp=sharing))
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
