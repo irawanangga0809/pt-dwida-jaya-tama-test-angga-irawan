@@ -15,8 +15,8 @@
 Done
 
 ## Test Result
-Dokumentasion (Google Slide)
-[Result]([https://laracasts.com](https://docs.google.com/presentation/d/1N7ZHmvvWS-of9riKyTt2jOzMojQBcRZ9ivcXHLKbP8Y/edit?usp=sharing))
+Documentation (Google Slide) by A.G ->
+[Result](https://docs.google.com/presentation/d/1N7ZHmvvWS-of9riKyTt2jOzMojQBcRZ9ivcXHLKbP8Y/edit?usp=sharing)
 
 ## About Laravel
 
